@@ -1,0 +1,13 @@
+#,id,app_label,model
+1,1,admin,logentry
+2,2,auth,permission
+3,3,auth,group
+4,4,auth,user
+5,5,contenttypes,contenttype
+6,6,sessions,session
+7,7,main,student
+8,8,main,course
+9,9,main,quiz
+10,10,main,question
+11,11,main,author
+12,12,main,book

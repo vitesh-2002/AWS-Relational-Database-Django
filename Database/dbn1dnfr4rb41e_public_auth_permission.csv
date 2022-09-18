@@ -1,0 +1,49 @@
+#,id,name,content_type_id,codename
+1,1,Can add log entry,1,add_logentry
+2,2,Can change log entry,1,change_logentry
+3,3,Can delete log entry,1,delete_logentry
+4,4,Can view log entry,1,view_logentry
+5,5,Can add permission,2,add_permission
+6,6,Can change permission,2,change_permission
+7,7,Can delete permission,2,delete_permission
+8,8,Can view permission,2,view_permission
+9,9,Can add group,3,add_group
+10,10,Can change group,3,change_group
+11,11,Can delete group,3,delete_group
+12,12,Can view group,3,view_group
+13,13,Can add user,4,add_user
+14,14,Can change user,4,change_user
+15,15,Can delete user,4,delete_user
+16,16,Can view user,4,view_user
+17,17,Can add content type,5,add_contenttype
+18,18,Can change content type,5,change_contenttype
+19,19,Can delete content type,5,delete_contenttype
+20,20,Can view content type,5,view_contenttype
+21,21,Can add session,6,add_session
+22,22,Can change session,6,change_session
+23,23,Can delete session,6,delete_session
+24,24,Can view session,6,view_session
+25,25,Can add student,7,add_student
+26,26,Can change student,7,change_student
+27,27,Can delete student,7,delete_student
+28,28,Can view student,7,view_student
+29,29,Can add course,8,add_course
+30,30,Can change course,8,change_course
+31,31,Can delete course,8,delete_course
+32,32,Can view course,8,view_course
+33,33,Can add quiz,9,add_quiz
+34,34,Can change quiz,9,change_quiz
+35,35,Can delete quiz,9,delete_quiz
+36,36,Can view quiz,9,view_quiz
+37,37,Can add question,10,add_question
+38,38,Can change question,10,change_question
+39,39,Can delete question,10,delete_question
+40,40,Can view question,10,view_question
+41,41,Can add author,11,add_author
+42,42,Can change author,11,change_author
+43,43,Can delete author,11,delete_author
+44,44,Can view author,11,view_author
+45,45,Can add book,12,add_book
+46,46,Can change book,12,change_book
+47,47,Can delete book,12,delete_book
+48,48,Can view book,12,view_book

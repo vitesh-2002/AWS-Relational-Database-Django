@@ -1,0 +1,2 @@
+#,id,course_name,course_num,is_undergrad,course_prereq,course_difficulty
+1,1,Database Design & Implementation,3160,true,1213,2

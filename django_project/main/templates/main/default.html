@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <h1>This is the first line</h1>
+    <h2>This is the second line</h2>
+    <h3>This is the third line</h3>
+    <h3>The first random number: {{rand1}}</h3>
+    <h3>The second random number: {{rand2}}</h3>
+    <h4>The sum of these two numbers is: {{randsum}}</h4>
+    <h2>{{all_quizzes}}</h2>
+    {% for quiz in all_quizzes %}
+        <h3>{{quiz.title}} Duration: {{quiz.duration}} minutes </h3>
+    {% endfor %}
+    <div style = "font-family: 'Algerian'; text-decoration: underline;">{{returned.title}} and {{single.title}}</div>
+    <hr style = "width: 1 px;"/>
+
+</body>
+</html>
