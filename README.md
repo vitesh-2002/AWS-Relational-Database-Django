@@ -7,4 +7,4 @@
 Lambda Handler for AWS operation:
  - Using AWS SAM and AWS Lambda to add, remove, and edit data in a serverless fashion
  - AWS Lambda ensures that the query given by the user goes through the cloud and returns the data/results to the user
- - AWS SAM allows you to run commands from the terminal
+ - AWS SAM allows you to run commands from the command line
